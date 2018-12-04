@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    padding: 20px auto;
+    background-image: url(https://animeflv.net/assets/animeflv/img/bg.jpg);
+}
+
+header {
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 25px;
+    background-image: url(https://animeflv.net/assets/animeflv/img/bgb.jpg);
+    border-bottom: 3px solid #01bcf3;
+}
+
+h1,h2{
+    color: floralwhite;
+    text-align: center;
+    
+}
+
+
+h4,h8{
+    font-size: 18px;
+    color: darkgrey
+    
+}
+
+.subtitulo {
+    margin-top: 20px;
+    margin-bottom: 2px;
+    padding-left: 20px;
+    background-color: #9da1a4;
+}
+
+h7 {
+    font-size: 16px;
+}
+
+p {
+    padding: 20px 20px 20px;
+    text-align: left;
+     border-top: 2px solid #3b4248;
+}
+
